@@ -3,7 +3,7 @@ class Main{
   public static void main(String[]args){
   Scanner kr=new Scanner(System.in);
    float a;
-    System.out.println("Enter the number");
+    //System.out.println("Enter the number");
     a=kr.nextFloat();
     if(a==0)
     {
