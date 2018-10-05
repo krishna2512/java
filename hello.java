@@ -5,7 +5,7 @@ public class Main {
         String line = br.readLine();
         int N = Integer.parseInt(line);
         for (int i = 0; i < N; i++) {
-            System.out.println("hello world");
+            System.out.println("Hello");
         }
     }
 }
